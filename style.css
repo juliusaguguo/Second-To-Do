@@ -52,10 +52,10 @@ h1 {
 
 #task-list li {
     padding: 10px;
-    background-color: tomato;
+    background-color: #f4f4f4;
     margin-bottom: 5px;
     border-radius: 3px;
-    color: #fff;
+    color: #535252;
     display: flex;
     justify-content: space-between;
     align-items: center;
